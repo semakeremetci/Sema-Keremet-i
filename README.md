@@ -1,3 +1,4 @@
 # Hello Everyone!
 ## I am still learning javascript.
-## You can reach me: keremetcisema@gmail.com
+## My projects usually about HTML,CSS.
+### You can reach me: keremetcisema@gmail.com
