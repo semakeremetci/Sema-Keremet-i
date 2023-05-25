@@ -21,7 +21,7 @@
 
 💡 Goals for 2023
 - Graduate from college.
-- Complete JavaScript Course.
+- Complete React Course.
 - Build 20+ projects 
 - Become skilled in JavaScript and React.
 #### Reach me:
