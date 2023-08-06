@@ -23,12 +23,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
 
 
-
-💡 Goals for 2023
-- Graduate from college.
-- Complete React Course.
-- Build 20+ projects 
-- Become skilled in JavaScript and React.
 #### Reach me:
 [![](https://img.shields.io/badge/LinkedIn-semakeremetci-blue)](https://www.linkedin.com/in/semakeremetci/)
 [![](https://img.shields.io/badge/Gmail-keremetcisema@gmail.com-red)](mailto:keremetcisema@gmail.com)
