@@ -9,9 +9,6 @@
 
 👩‍💻 I’m working on Building projects and improving myself.
 
-🔭 I’m currently consistently writing to take note of my progress in daily productivity.
-
-
 🌱 I’m currently learning :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
